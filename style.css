@@ -6,7 +6,7 @@
 
 body {
     font-family: 'Montserrat', sans-serif;
-	background-image: "https://img.freepik.com/free-vector/abstract-geometric-wireframe-background_52683-59421.jpg";
+	background-image: url('https://img.freepik.com/free-vector/abstract-geometric-wireframe-background_52683-59421.jpg') ;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -209,6 +209,7 @@ button.ghost {
 .container.right-panel-active .overlay-right {
     transform: translateY(20%);
 }
+
 
 
 
